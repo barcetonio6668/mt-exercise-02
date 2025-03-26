@@ -14,7 +14,7 @@ This repo shows how to train neural language models using [Pytorch example code]
 
 Clone this repository in the desired place:
 
-    git clone https://github.com/marpng/mt-exercise-02
+    git clone https://github.com/barcetonio6668/mt-exercise-02
     cd mt-exercise-02
 
 Create a new virtualenv that uses Python 3. Please make sure to run this command outside of any virtual Python environment:
